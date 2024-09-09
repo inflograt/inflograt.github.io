@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://inflograt.github.io/sitemap.html.gz
+Sitemap: https://inflograt.github.io/app/sitemap.html.gz
+Sitemap: https://inflograt.github.io/assets/sitemap.html.gz
+Sitemap: https://inflograt.github.io/css/sitemap.html.gz
+Sitemap: https://inflograt.github.io/includes/sitemap.html.gz
+Sitemap: https://inflograt.github.io/item/sitemap.html.gz
+Sitemap: https://inflograt.github.io/src/sitemap.html.gz
